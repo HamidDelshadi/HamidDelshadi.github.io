@@ -34,11 +34,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+# twitter: mytwitter
+instagram: hamid_delshadi_it
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: hamid-delshadi-654366211
 # youtube: myyoutube
 # spotify: myspotify
 github: HamidDelshadi
