@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: http://www.delshadi.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -59,6 +59,7 @@ authors:
     bio: Developer
     external-image: false
     picture: assets/images/profile.jpg
+    
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
