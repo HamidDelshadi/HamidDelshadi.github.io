@@ -1,5 +1,5 @@
 ---
-title: ":sparkles: Indigo, minimalist jekyll theme"
+title: ":sparkles: Fairy Tale 3D, an augmented reality pop up book"
 layout: post
 date: 2021-07-23 22:10
 tag: AUG, UNITY, VOFURIA, C#
